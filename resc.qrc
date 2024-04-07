@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/knob.png</file>
+        <file>images/owl.jpg</file>
+        <file>images/power_off.png</file>
+        <file>images/power_on.png</file>
+        <file>images/preset_down.png</file>
+        <file>images/preset_up.png</file>
+        <file>images/swatteam.png</file>
+    </qresource>
+</RCC>

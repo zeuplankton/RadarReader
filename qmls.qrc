@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/qt">
+        <file>qml/Header.qml</file>
+        <file>qml/Knob.qml</file>
+        <file>qml/KnobControl.qml</file>
+        <file>qml/Main.qml</file>
+        <file>qml/PresetButton.qml</file>
+        <file>qml/RfPower.qml</file>
+        <file>qml/Feedback.qml</file>
+    </qresource>
+</RCC>

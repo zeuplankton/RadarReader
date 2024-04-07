@@ -1,0 +1,21 @@
+{
+    "applicationTitle": "Automotive Radar Target Simulator",
+    "appShortName": "ARTS",
+    "hostName": "192.168.0.20",
+    "testMode": false,
+    "radarFrequencyGhz": 76.5,
+    "distance": 192,
+    "velocity": 223,
+    "rxIfAttenDb": 10,
+    "txIfAttenDb": 10,
+    "powerState": true,
+    "bootDelay": 12000,
+    "distance1": 100,
+    "velocity1": 250,
+    "distance2": 120,
+    "velocity2": -250,
+    "distance3": 75,
+    "velocity3": 15,
+    "distance4": 192,
+    "velocity4": 223
+}
